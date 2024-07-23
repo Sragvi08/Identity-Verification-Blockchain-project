@@ -12,6 +12,8 @@ This project is a Decentralized Application (DApp) for issuing and verifying dig
 - [Screenshots](#screenshots)
 - [License](#license)
 
+(Code available under the master branch)
+
 ## Overview
 
 This DApp follows the following scenario wherein it allows government officials to issue and verify digital IDs for citizens. Citizens can connect their Ethereum wallet to view their issued digital IDs and their verification status.
