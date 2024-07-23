@@ -9,7 +9,6 @@ This project is a Decentralized Application (DApp) for issuing and verifying dig
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Smart Contract](#smart-contract)
 - [Screenshots](#screenshots)
 - [License](#license)
 
